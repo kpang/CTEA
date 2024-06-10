@@ -1,2 +1,2 @@
 # CTEA
-Cell-type enrichment analysis
+Cell-type enrichment analysis.
