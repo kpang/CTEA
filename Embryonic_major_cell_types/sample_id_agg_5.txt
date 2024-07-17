@@ -1,0 +1,22 @@
+Blood
+Choroid plexus
+Ectoderm
+Endoderm
+Ependymal
+Fibroblast
+Gastrulation
+Glioblast
+Immune
+Mesenchyme
+Mesoderm
+Neural crest
+Neural tube
+Neuroblast
+Neuron
+Olfactory ensheathing cell
+Oligodendrocyte
+Pineal gland
+Radial glia
+Schwann cell
+Subcommissural organ
+Vascular
