@@ -1,0 +1,30 @@
+Antaki
+Cirnigliaro
+Fu
+Trost
+Wang
+Zhou
+Multiple studies
+Single study
+ASD-predominant Fu
+ASD-only
+Sey
+SPARK
+SFARI category 1
+SFARI category 2
+SFARI category 3
+SFARI syndromic
+AutismKB core
+AutismKB noncore
+AutismKB syndromic
+ASD-monoallelic Dhindsa
+ASD-biallelic Wang
+Fu
+Kaplanis
+Wang
+Multiple studies
+Single study
+DD-predominant Fu
+DD-only
+DD-monoallelic DDG2P
+DD-biallelic DDG2P
