@@ -1,0 +1,30 @@
+Astrocytes
+Cerebellum neurons
+Cholinergic and monoaminergic neurons
+Dentate gyrus granule neurons
+Di- and mesencephalon excitatory neurons
+Di- and mesencephalon inhibitory neurons
+Enteric glia
+Enteric neurons
+Ependymal cells
+Glutamatergic neuroblasts
+Hindbrain neurons
+Microglia
+Non-glutamatergic neuroblasts
+Olfactory inhibitory neurons
+Oligodendrocytes
+Peptidergic neurons
+Pericytes
+Peripheral sensory non-peptidergic neurons
+Peripheral sensory peptidergic neurons
+Perivascular macrophages
+Satellite glia
+Spinal cord excitatory neurons
+Spinal cord inhibitory neurons
+Sympathetic noradrenergic neurons
+Telencephalon inhibitory interneurons
+Telencephalon projecting excitatory neurons
+Telencephalon projecting inhibitory neurons
+Vascular and leptomeningeal cells
+Vascular endothelial cells
+Vascular smooth muscle cells
