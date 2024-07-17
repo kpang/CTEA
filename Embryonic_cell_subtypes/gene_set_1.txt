@@ -1,0 +1,30 @@
+Cajal-Retzius
+Cerebellum GABAergic
+Cerebellum glutamatergic
+Cortical or hippocampal glutamatergic
+Diencephalon glutamatergic
+Dorsal midbrain glutamatergic
+Epithalamus glutamatergic
+Forebrain GABAergic
+Forebrain glutamatergic
+Hindbrain GABAergic
+Hindbrain glutamatergic
+Hindbrain glycinergic
+Hindbrain serotoninergic
+Hypothalamus
+Hypothalamus glutamatergic
+Midbrain-hindbrain GABAergic
+Midbrain dopaminergic
+Midbrain GABAergic
+Midbrain glutamatergic
+Mixed region
+Mixed region and neurotransmitter
+Mixed region GABAergic
+Mixed region glutamatergic
+Motor neurons
+Pituitary neuroendocrine
+Posterior hindbrain glutamatergic
+Sensory neurons
+Spinal cord glutamatergic
+Spinal cord glycinergic
+Undefined
